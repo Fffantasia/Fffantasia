@@ -1,8 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/Fffantasia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fffantasia&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fffantasia&show_icons=true&theme=dark&layout=compact" />
-</a>
+
 </br></br></br>
 ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
@@ -18,6 +15,10 @@
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
+<a href="https://github.com/Fffantasia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fffantasia&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fffantasia&show_icons=true&theme=dark&layout=compact" />
+</a>
 <!--
 **Fffantasia/Fffantasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
