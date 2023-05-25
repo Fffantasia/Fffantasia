@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ### Some of the technologies I have worked with-</br>
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
