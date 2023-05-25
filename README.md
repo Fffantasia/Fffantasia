@@ -17,8 +17,8 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
 <a href="https://github.com/Fffantasia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fffantasia&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fffantasia&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fffantasia&show_icons=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&bg_color=151515&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fffantasia&show_icons=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&bg_color=151515&layout=compact" />
 </a>
 <!--
 **Fffantasia/Fffantasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
