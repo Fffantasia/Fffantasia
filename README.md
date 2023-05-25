@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋</br></br></br>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </br></br></br>
 ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
