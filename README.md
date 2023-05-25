@@ -1,7 +1,13 @@
 <p align="center"> Hi there 👋</br></br></br>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </p>
-</br></br></br>
+</br></br>
+<a href="https://twitter.com/FRubitoo">
+  <img align="left" alt="Fffantasia's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/Fffantasia">
+  <img align="left" alt="Fffantasia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a></br>
 ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C#](https://img.shields.io/badge/-C#-000000?style=for-the-badge&logo=C#&logoColor=00599C)
