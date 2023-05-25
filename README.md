@@ -26,6 +26,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fffantasia&show_icons=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&bg_color=151515&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fffantasia&show_icons=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&bg_color=151515&layout=compact" />
 </a>
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <!--
 **Fffantasia/Fffantasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
