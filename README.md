@@ -7,7 +7,11 @@
 </a>
 <a href="https://github.com/Fffantasia">
   <img align="left" alt="Fffantasia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a></br>
+</a>
+<!--<a href="https://www.instagram.com/singer_brijesh_dhanani">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>-->
+</br>
 ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C#](https://img.shields.io/badge/-C#-000000?style=for-the-badge&logo=C#&logoColor=00599C)
