@@ -10,7 +10,7 @@
 </a>
 <!--<a href="https://www.instagram.com/singer_brijesh_dhanani">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>-->
+</a>
 </br>
 ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
@@ -18,7 +18,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)-->
 
 ### Some of the technologies I have worked with-</br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
