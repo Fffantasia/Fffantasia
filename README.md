@@ -1,17 +1,17 @@
-<p align="center"> Hi there👋, i'm a frontend developer currently working with React <img align="left" alt="Fffantasia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /></br></br></br>
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+<p align="center"> Hi there👋, i'm a spanish frontend developer currently working with React <img height="15" width="15" src="https://cdn.simpleicons.org/react" /></br></br></br>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </p>
 </br></br>
-<a href="https://twitter.com/FRubitoo">
-  <img align="left" alt="Fffantasia's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://github.com/Fffantasia">
-  <img align="left" alt="Fffantasia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<!--<a href="https://www.instagram.com/singer_brijesh_dhanani">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</br>-->
+<div align="center">
+  <a href="https://twitter.com/FRubitoo">
+    <img alt="Fffantasia's Twitter" width="32px" src="https://cdn.simpleicons.org/twitter" />
+  </a>
+  &nbsp&nbsp
+  <a href="https://github.com/Fffantasia">
+    <img alt="Fffantasia's Github" width="32px" src="https://cdn.simpleicons.org/github/black/white" />
+  </a>
+</div>
+</br>
 
 ### Some of the languages I know:</br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
@@ -30,9 +30,15 @@
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </br></br>
-<a href="https://github.com/Fffantasia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fffantasia&show_icons=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&bg_color=151515&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fffantasia&show_icons=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&bg_color=151515&layout=compact" />
-</a>
-</br></br>
+<div>
+  <a href="https://github.com/Fffantasia">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fffantasia&show_icons=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&bg_color=151515&layout=compact" />
+  </a>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/Fffantasia">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fffantasia&show_icons=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&bg_color=151515&layout=compact" />
+  </a>
+</div>
+</br>
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
