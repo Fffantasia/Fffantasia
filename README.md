@@ -1,4 +1,4 @@
-<p align="center"> Hi there 👋</br></br></br>
+<p align="center"> Hi there👋, i'm a frontend developer currently working with React</br></br></br>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </p>
 </br></br>
