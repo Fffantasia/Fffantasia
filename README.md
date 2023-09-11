@@ -1,7 +1,5 @@
-<p align="center"> Hi there👋, i'm a spanish frontend developer currently working with React <img height="15" width="15" src="https://cdn.simpleicons.org/react" /></br></br></br>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-</p>
-</br></br>
+<p align="center"> Hi there👋, i'm a spanish frontend developer currently working with React <img height="15" width="15" src="https://cdn.simpleicons.org/react" /></p>
+</br>
 <div align="center">
   <a href="https://twitter.com/FRubitoo">
     <img alt="Fffantasia's Twitter" width="32px" src="https://cdn.simpleicons.org/twitter" />
@@ -10,6 +8,10 @@
   <a href="https://github.com/Fffantasia">
     <img alt="Fffantasia's Github" width="32px" src="https://cdn.simpleicons.org/github/black/white" />
   </a>
+</div>
+</br>
+<div align="center">
+  <img src="https://pinkiespokemonhome.files.wordpress.com/2020/05/crazy-dance.gif?w=337" width="200"/>
 </div>
 </br>
 
