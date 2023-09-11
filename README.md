@@ -11,7 +11,7 @@
 </div>
 </br>
 <div align="center">
-  <img src="https://pinkiespokemonhome.files.wordpress.com/2020/05/crazy-dance.gif?w=337" width="200"/>
+  <img src="https://raw.github.com/Fffantasia/Fffantasia/main/monokuma dance.gif" width="200"/>
 </div>
 </br>
 
@@ -31,16 +31,16 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-</br></br>
+</br>
 <div>
   <a href="https://github.com/Fffantasia">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fffantasia&show_icons=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&bg_color=151515&layout=compact" />
   </a>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/Fffantasia">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fffantasia&show_icons=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&bg_color=151515&layout=compact" />
   </a>
 </div>
 </br>
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![Dino](https://raw.github.com/Fffantasia/Fffantasia/main/dino.gif)
