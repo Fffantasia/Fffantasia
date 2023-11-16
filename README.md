@@ -1,7 +1,7 @@
 <p align="center"> Hi there👋, i'm a spanish frontend developer currently working with React <img height="15" width="15" src="https://cdn.simpleicons.org/react" /></p>
 </br>
 <div align="center">
-  <a href="https://twitter.com/FRubitoo">
+  <a href="https://twitter.com/Fffantasiax">
     <img alt="Fffantasia's Twitter" width="32px" src="https://cdn.simpleicons.org/twitter" />
   </a>
   &nbsp&nbsp
