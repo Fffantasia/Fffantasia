@@ -2,7 +2,7 @@
 </br>
 <div align="center">
   <a href="https://twitter.com/Fffantasiax">
-    <img alt="Fffantasia's Twitter" width="32px" src="https://cdn.simpleicons.org/twitter" />
+    <img alt="Fffantasia's Twitter" width="32px" src="https://cdn.simpleicons.org/x" />
   </a>
   &nbsp&nbsp
   <a href="https://github.com/Fffantasia">
