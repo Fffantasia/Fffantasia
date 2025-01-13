@@ -1,4 +1,4 @@
-<p align="center"> Hi there👋, i'm a spanish frontend developer currently working with React <img height="15" width="15" src="https://cdn.simpleicons.org/react" /></p>
+<p align="center"> Hi there👋, I'm a spanish frontend developer currently working with React <img height="15" width="15" src="https://cdn.simpleicons.org/react" /></p>
 </br>
 <div align="center">
   <a href="https://twitter.com/Fffantasiax">
@@ -17,7 +17,8 @@
 
 ### Some of the languages I know:</br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-000000?style=for-the-badge&logo=cshrp&logoColor=239120)
+![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=777BB4)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JS](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -26,10 +27,17 @@
 ### Some of the technologies I have worked with:</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=23F5792A)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=00979D)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Yii2](https://img.shields.io/badge/Yii2-000000?style=for-the-badge&logo=yii&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=fff)
+![Stripe](https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=5851DD)
 
 </br>
 <div>
